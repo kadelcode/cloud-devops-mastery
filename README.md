@@ -49,17 +49,12 @@ The objective is not merely to consume content but to build real engineering exp
 
 ## Repository Structure
 
-docs/
-
-experiments/
-
-projects/
-
-diagrams/
-
-scripts/
-
-templates/
+* docs/
+* experiments/
+* projects/
+* diagrams/
+* scripts/
+* templates/
 
 ---
 
