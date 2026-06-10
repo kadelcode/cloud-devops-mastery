@@ -1,0 +1,56 @@
+# Node
+node_modules/
+npm-debug.log*
+
+# Environment
+.env
+.env.local
+.env.*.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Keep templates tracked:
+!.env.example
+!.env.template
+!.env.sample
+
+# Logs
+logs/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+crash.log
+
+# Kubernetes
+*.kubeconfig
+
+# Docker
+docker-data/
+
+# Build
+dist/
+build/
+
+# Coverage
+coverage/
+
+# Temporary
+tmp/
+temp/
+
+# Secrets
+*.pem
+*.key
+*.crt
