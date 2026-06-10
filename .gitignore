@@ -1,0 +1,47 @@
+# Node
+node_modules/
+npm-debug.log*
+
+# Environment
+.env
+.env.*
+
+# Logs
+logs/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+crash.log
+
+# Kubernetes
+*.kubeconfig
+
+# Docker
+docker-data/
+
+# Build
+dist/
+build/
+
+# Coverage
+coverage/
+
+# Temporary
+tmp/
+temp/
+
+# Secrets
+*.pem
+*.key
+*.crt
