@@ -83,7 +83,7 @@ Database
 -
 	
 ## Trade-offs
-| Decision |	Benefit	Cost |
+| Decision | Benefit / Cost |
 |----------|-----------------|
 |          |                 |
 		
