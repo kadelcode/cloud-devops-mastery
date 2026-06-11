@@ -38,8 +38,7 @@ What system is being designed?
 
 Link diagram here.
 
-[text
-Diagram Placeholder]
+![Architecture Diagram](path/to/diagram.png)
 
 ## Components
 | Component	 | Responsibility |
