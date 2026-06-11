@@ -73,10 +73,7 @@ Link architecture document.
 
 ### Installation
 
-```bash
-
-Run
-```
+```bash <command(s)>```
 
 ## Screenshots
 -
